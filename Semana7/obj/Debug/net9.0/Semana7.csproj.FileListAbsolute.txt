@@ -1,0 +1,14 @@
+D:\ESTRUCTURA\SEm7\Semana7\bin\Debug\net9.0\Semana7.exe
+D:\ESTRUCTURA\SEm7\Semana7\bin\Debug\net9.0\Semana7.deps.json
+D:\ESTRUCTURA\SEm7\Semana7\bin\Debug\net9.0\Semana7.runtimeconfig.json
+D:\ESTRUCTURA\SEm7\Semana7\bin\Debug\net9.0\Semana7.dll
+D:\ESTRUCTURA\SEm7\Semana7\bin\Debug\net9.0\Semana7.pdb
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.AssemblyInfoInputs.cache
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.AssemblyInfo.cs
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.dll
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\refint\Semana7.dll
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.pdb
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\Semana7.genruntimeconfig.cache
+D:\ESTRUCTURA\SEm7\Semana7\obj\Debug\net9.0\ref\Semana7.dll
