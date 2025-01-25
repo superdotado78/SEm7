@@ -1,0 +1,15 @@
+D:\ESTRUCTURA\SEm7\torres\torres\bin\Debug\net9.0\torres.exe
+D:\ESTRUCTURA\SEm7\torres\torres\bin\Debug\net9.0\torres.deps.json
+D:\ESTRUCTURA\SEm7\torres\torres\bin\Debug\net9.0\torres.runtimeconfig.json
+D:\ESTRUCTURA\SEm7\torres\torres\bin\Debug\net9.0\torres.dll
+D:\ESTRUCTURA\SEm7\torres\torres\bin\Debug\net9.0\torres.pdb
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.AssemblyInfoInputs.cache
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.AssemblyInfo.cs
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.sourcelink.json
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.dll
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\refint\torres.dll
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.pdb
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\torres.genruntimeconfig.cache
+D:\ESTRUCTURA\SEm7\torres\torres\obj\Debug\net9.0\ref\torres.dll
